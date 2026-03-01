@@ -1,0 +1,17 @@
+# Environments
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Matplotlib/Output generated files
+pts_vs_ast.png
+nba_image_cache.sqlite
+
+# IDEs
+.vscode/
+.idea/
