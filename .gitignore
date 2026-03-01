@@ -15,3 +15,8 @@ nba_image_cache.sqlite
 # IDEs
 .vscode/
 .idea/
+
+# PyInstaller / Build
+build/
+dist/
+*.spec

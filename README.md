@@ -61,6 +61,14 @@ python main.py
 4. **Click** on a dot to view the full detailed statistics card for that player. Click another dot, or click off into empty space to hide it.
 5. Upon closing the window, the base plot without interactions will be saved locally as `pts_vs_ast.png`.
 
+## Running without Python (Standalone Executable)
+
+If you don't want to install Python and configure the dependencies, you can run the pre-built Windows executable.
+
+1. Locate the `dist/` folder in this repository.
+2. Double-click `main.exe` to run the visualization directly.
+   _Note: A black console window will appear briefly while the executable loads up the data in the background._
+
 ## Customization
 
 You can easily adjust the size of the popup box, text, and images by modifying the arguments near the bottom of `main.py`:
